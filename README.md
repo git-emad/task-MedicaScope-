@@ -1,1 +1,8 @@
 # task-MedicaScope-
+
+
+// this is The task for building a WP theme from scratch 
+demo: task.kenanatech.com
+login: task.kenanatech.com/wp-admin
+user: emad
+pass: 1neHl6o7WeUKe&VrzoR62HAI
